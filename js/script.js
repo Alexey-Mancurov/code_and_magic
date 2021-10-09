@@ -119,6 +119,7 @@ const renderWizard = (wizard) => {
   wizardEl.querySelector('.wizard-eyes').style.fill = wizard.thisEyesColor
 
   return wizardEl
+  
 }
 
 // добавление в блок сгенерированных объектов
